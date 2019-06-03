@@ -1,0 +1,11 @@
+C:\vs_projects_csharp\myRest\bin\Debug\netcoreapp2.2\myRest.deps.json
+C:\vs_projects_csharp\myRest\bin\Debug\netcoreapp2.2\myRest.runtimeconfig.json
+C:\vs_projects_csharp\myRest\bin\Debug\netcoreapp2.2\myRest.runtimeconfig.dev.json
+C:\vs_projects_csharp\myRest\bin\Debug\netcoreapp2.2\myRest.dll
+C:\vs_projects_csharp\myRest\bin\Debug\netcoreapp2.2\myRest.pdb
+C:\vs_projects_csharp\myRest\obj\Debug\netcoreapp2.2\myRest.csprojAssemblyReference.cache
+C:\vs_projects_csharp\myRest\obj\Debug\netcoreapp2.2\myRest.csproj.CoreCompileInputs.cache
+C:\vs_projects_csharp\myRest\obj\Debug\netcoreapp2.2\myRest.AssemblyInfoInputs.cache
+C:\vs_projects_csharp\myRest\obj\Debug\netcoreapp2.2\myRest.AssemblyInfo.cs
+C:\vs_projects_csharp\myRest\obj\Debug\netcoreapp2.2\myRest.dll
+C:\vs_projects_csharp\myRest\obj\Debug\netcoreapp2.2\myRest.pdb
